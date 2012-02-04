@@ -1,0 +1,9 @@
+Package: com.nickf.cameralocker
+Name: CameraLocker
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Always show the lockscreen camera shortcut.
+Maintainer: Nick Frey
+Author: Nick Frey <nickfrey123@gmail.com>
+Section: Tweaks
